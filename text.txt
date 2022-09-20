@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+Hello world.
+white
+red
+yellow
+=======
 hello Abdulloh.
 Green
 red
 blue
+>>>>>>> his-branch
